@@ -1,0 +1,125 @@
+
+/* CSS Document */
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Arvo', serif; */
+
+body {
+    /*background-color: black;
+    margin-top: 5rem;*/
+}
+
+/*  NAVBAR  */
+#navbar {
+    background-color: rgba(0, 54, 54, 0.8);
+    color: rgba(0, 54, 54, 0.5);
+}
+/*  HEADER  */
+#welcome-section {
+    background-image: url(../img/foto3.jpg);
+    filter: grayscale(50%);
+    background-repeat: none;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 10vh;    
+    margin-bottom: 4rem;
+}
+
+.jumbotron {
+    background: rgba(0, 54, 54, 0.8);
+    color: aliceblue;
+}
+#jumbotron-intro {
+    margin-top: 300px;    
+}
+
+#welcome-section a {
+    color: white;
+}
+#welcome-section a:hover {
+    text-decoration: none;
+}
+
+.content .col-lg-4 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#icon {
+    font-size: 5rem;
+    margin-bottom: 1.5rem;
+    color: rgba(0, 54, 54, 0.7);
+}
+#icon-angle{
+    font-size: 3rem;
+    color: rgba(0, 54, 54, 0.7);
+}
+
+
+/* 
+
+.jumbotron h1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 6rem;
+    color: white;
+    text-shadow: 1px 1px 1px #000
+}
+
+.jumbotron p {
+    font-family: 'Arvo', serif;
+    font-size: 1.3rem;
+    line-height: 1.3;
+    text-shadow: 1px 1px 1px #000;
+    padding-left: 0.2rem;
+}
+
+section h1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 6rem;
+    color: white;
+    text-shadow: 1px 1px 1px #000
+}
+
+section p {
+    font-family: 'Arvo', serif;
+    font-size: 1.3rem;
+    line-height: 1.3;
+    text-shadow: 1px 1px 1px #000;
+    padding-left: 0.2rem;
+}
+
+.display-1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 6rem;
+    color: white;
+    text-shadow: 1px 1px 1px #000    
+}
+
+
+.container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro-display {
+    margin-top: 300px;
+    background-color: rgba(252, 252, 252, 0.5);
+    padding-bottom: 10px;
+}
+
+.intro-heading {
+    font-size: 6vw;    
+    color: aliceblue;
+}
+.intro-lead {
+    font-size: 4vw;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+*/
+
+

@@ -1,4 +1,4 @@
-# FCC_PersonalPortfolioWebpage<h1><a href="#">FCC_PersonalPortfolioWebpage</a></h1>
+# <h1><a href="#">FCC_PersonalPortfolioWebpage</a></h1>
 
 <p>Responsive Web Design Projects - Build a Personal Portfolio Webpage, part of <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage">Free Code Camp</a> project work.</p>
 
@@ -12,7 +12,7 @@
  
  
  
- ***** <h4>USER STORIES</h4> *****
+<h4>USER STORIES</h4>
 
     Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
     

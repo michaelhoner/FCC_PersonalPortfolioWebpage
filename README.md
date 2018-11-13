@@ -2,12 +2,15 @@
 
 Responsive Web Design Projects - Build a Personal Portfolio Webpage
 
-Technologies used:
-
-    HTML5
-    CSS3
-    Bootstrap 4
-    Bootstrap 4 snippets
+ <h3>Technologies used: </h3>
+ <ul>
+ 	<li>HTML5</li>
+ 	<li>CSS3</li>
+ 	<li>Bootstrap 4</li>
+    <li>Bootstrap 4 snippets</li>
+ </ul>
+ 
+ ***** USER STORIES *****
 
 
     Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.

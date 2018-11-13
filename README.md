@@ -1,17 +1,18 @@
-# FCC_PersonalPortfolioWebpage
+# FCC_PersonalPortfolioWebpage<h1><a href="#">FCC_PersonalPortfolioWebpage</a></h1>
 
-Responsive Web Design Projects - Build a Personal Portfolio Webpage
+<p>Responsive Web Design Projects - Build a Personal Portfolio Webpage, part of <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage">Free Code Camp</a> project work.</p>
 
- <h3>Technologies used: </h3>
+ <h3>Technologies used:</h3>
  <ul>
  	<li>HTML5</li>
  	<li>CSS3</li>
  	<li>Bootstrap 4</li>
-    <li>Bootstrap 4 snippets</li>
+  <li>Bootstrap 4 snippets</li>
  </ul>
  
- ***** USER STORIES *****
-
+ 
+ 
+ ***** <h4>USER STORIES</h4> *****
 
     Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
     
